@@ -1,0 +1,23 @@
+_model: page
+---
+title: Книга
+---
+_slug: book.html
+---
+body:
+<h2>Книга роси Судзуки «Zen Mind, Beginner's Mind»</h2>
+
+<div class="row">
+<div class="three columns">
+<p><img src="/static/img/zmbm.jpg" width=200 height=271 align=left hspace=10>
+</div>
+<div class="nine columns">
+Книга Сюнрю Судзуки «Сознание Дзэн, сознание начинающего» (перевод 1995 года) доступна с нашего сайта в следующих форматах:</p>
+
+<p>
+<a href="http://www.mskcd.ru/zmbm/33021.100521171147.djvu">6,8Мб</a>, DjVu 200&nbsp;dpi (наименьший размер файла)<br>
+<a href="http://www.mskcd.ru/zmbm/41067.100521192301.djvu">13Мб</a>, DjVu 300&nbsp;dpi (обычное качество, рекомендуется)<br>
+<a href="http://www.mskcd.ru/zmbm/76106.100521160937.djvu">21Мб</a>, DjVu 400&nbsp;dpi (высокое качество)<br>
+<a href="http://www.mskcd.ru/zmbm/DC_2505598.pdf">71Мб</a>, pdf (лучшее качество, наибольший размер файла)<br>
+</p>
+</div>
